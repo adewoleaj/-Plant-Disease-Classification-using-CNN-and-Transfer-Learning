@@ -26,7 +26,7 @@ The Adam optimizer was selected to train the CNN model due to its ability to aut
 
 Transfer learning was utilized by freezing the top layer of the pre-trained model and then connecting it to the fully connected layers of our top-performing custom model. This approach leveraged the learned features from the pre-trained model while allowing for fine-tuning on our specific dataset.
 
-![Research Flow](research_flow.png)
+![Research Flow](https://github.com/adewoleaj/-Plant-Disease-Classification-using-CNN-and-Transfer-Learning/blob/main/flow%20chat.png?raw=true)
 
 For detailed information about the methodology, please refer to the attached PDF and Jupyter Notebook.
 
