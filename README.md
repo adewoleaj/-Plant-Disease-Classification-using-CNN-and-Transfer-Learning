@@ -28,6 +28,7 @@ Transfer learning was utilized by freezing the top layer of the pre-trained mode
 
 ![Research Flow](https://github.com/adewoleaj/-Plant-Disease-Classification-using-CNN-and-Transfer-Learning/blob/main/flow%20chat.png?raw=true)
 
+
 For detailed information about the methodology, please refer to the attached PDF and Jupyter Notebook.
 
 ## Model Evaluation
@@ -45,5 +46,9 @@ Evaluation metrics include Accuracy, Precision, Recall, and F1 Score.
 - Optimizer: Adamax
 
 Overall, both the pre-trained and custom models performed similarly, with a slight 1% advantage observed for the pre-trained model in terms of accuracy. Notably, both models outperformed previous work conducted on the same dataset.
+
+
+![compare](https://github.com/adewoleaj/-Plant-Disease-Classification-using-CNN-and-Transfer-Learning/blob/main/Presentation1.png?raw=true)
+
 
 For more details, please refer to the attached documentation and code files.
