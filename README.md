@@ -2,6 +2,9 @@
 
 This repository contains code and resources for the classification of multiple plant diseases using Convolutional Neural Networks (CNN) and Transfer Learning techniques.
 
+![plant](https://github.com/adewoleaj/-Plant-Disease-Classification-using-CNN-and-Transfer-Learning/blob/main/plant%20disease.png?raw=true)
+
+
 ## Introduction
 
 The primary objective of this study is to build a customized CNN model tailored specifically for the classification of plant diseases. We aim to evaluate its performance by comparing it against seven pre-trained architectures: VGG16, VGG19, ResNet50, DenseNet121, InceptionV4, EfficientNet, and MobileNet.
