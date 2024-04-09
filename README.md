@@ -54,4 +54,16 @@ Overall, both the pre-trained and custom models performed similarly, with a slig
 ![compare](https://github.com/adewoleaj/-Plant-Disease-Classification-using-CNN-and-Transfer-Learning/blob/main/Presentation1.png?raw=true)
 
 
-For more details, please refer to the attached documentation and code files.
+
+
+---
+**Note:** This README serves as a summary of the project. For comprehensive details and analysis, please review the complete report.
+
+---
+## Author
+
+**_Adewole Adetoro Ajala_**
+
+For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com
+
+Feel free to contribute or provide feedback!
